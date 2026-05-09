@@ -44,6 +44,8 @@ Semantic Search
 LLM Response Generation
     ↓
 Answer with Source Chunks
+
+
 ## 📸 Screenshots
 
 ### Home Page
