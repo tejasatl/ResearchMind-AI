@@ -317,4 +317,4 @@ This project is open-source and created for learning, research, and academic por
 
 ## 🌐 Live Demo
 
-Try the app here: https://your-app-name.streamlit.app
+Try the app here: https://researchmind-ai-tejas.streamlit.app/
