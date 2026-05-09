@@ -314,3 +314,7 @@ GitHub: [tejasatl](https://github.com/tejasatl)
 ## 📜 License
 
 This project is open-source and created for learning, research, and academic portfolio development.
+
+## 🌐 Live Demo
+
+Try the app here: https://your-app-name.streamlit.app
