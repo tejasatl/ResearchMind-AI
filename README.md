@@ -44,3 +44,23 @@ Semantic Search
 LLM Response Generation
     ↓
 Answer with Source Chunks
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### PDF Chat
+![PDF Chat](screenshots/chat_response.png)
+
+### Summary Feature
+![Summary Feature](screenshots/summary_feature.png)
+
+### Source Chunks
+![Source Chunks](screenshots/source_chunks.png)
+
+
+### MCQ Feature
+![ MCQ Feature](screenshots/mcq_generation.png)
+
+### Flashcard Feature
+![ Flashcard Feature](screenshots/flashcard_generation.png)
